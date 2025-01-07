@@ -29,3 +29,4 @@ Das geht ganz schnell und einfach:
 
 LaTeX erstelle einige nervige Dateien (.aux, .log) diese muss man loeschen bevor
 man einen Commit mit seinen Aenderungen macht!
+NO!
